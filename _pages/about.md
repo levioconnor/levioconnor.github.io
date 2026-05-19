@@ -25,7 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student of psychology at the University of Kansas. I work primarily with Dr. Glenn Adams as a member of the Cultural Psychology Research Group (CPRG).
+I am an undergraduate student of psychology at the University of Kansas. I work primarily with <a href='https://psychology.ku.edu/people/glenn-adams'>Dr. Glenn Adams</a> as a member of the Cultural Psychology Research Group (CPRG).
 
-I am interested in understanding how dominant group identities shape perceptions of  
+I am interested in understanding how dominant group identities shape perceptions of
+
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
