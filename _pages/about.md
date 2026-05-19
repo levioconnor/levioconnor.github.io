@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p><a href='oconnorlevi712@ku.edu'>Email</p> <p></a><a href='https://www.linkedin.com/in/oconnorlevi/'>LinkedIn</a></p>
 
 profile:
   align: right
