@@ -6,7 +6,7 @@ subtitle: <p><a href='oconnorlevi712@ku.edu'>Email</p> <p></a><a href='https://w
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: levipic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Undergraduate Psychology Student at the University of Kansas</p>
