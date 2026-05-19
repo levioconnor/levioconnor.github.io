@@ -206,3 +206,20 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+// Link colors
+a {
+  color: #0066cc; // change to whatever color you want
+}
+
+a:hover {
+  color: #003399; // color when you hover over a link
+}
+
+// Nav tab colors
+.navbar a {
+  color: #0066cc;
+}
+
+.navbar a:hover {
+  color: #003399;
+}
