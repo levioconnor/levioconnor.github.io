@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<a href='https://news.ku.edu/news/article/ku-announces-beinecke-scholarship-nominee-ARTICLE-J64EGT-ARTICLE-J64EGT-ARTICLE-J64EGT'>KU announces Beinecke scholarship nominee</a>
