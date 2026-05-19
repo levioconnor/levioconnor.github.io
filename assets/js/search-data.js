@@ -391,12 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-ku-mcnair-scholars-present-original-research-at-summer-symposium",
+          title: 'KU McNair Scholars present original research at summer symposium',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-students-to-present-at-undergraduate-research-colloquium",
+          section: "News",},{id: "news-students-to-present-at-undergraduate-research-colloquium",
           title: 'Students to present at Undergraduate Research Colloquium',
           description: "",
           section: "News",},{id: "news-ku-announces-beinecke-scholarship-nominee",
