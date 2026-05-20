@@ -19,6 +19,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an undergraduate student of psychology at the University of Kansas. I work primarily with <a href='https://psychology.ku.edu/people/glenn-adams'>Dr. Glenn Adams</a> and <a href='https://psychology.ku.edu/people/syed-muhammad-omar'>Syed Muhammad Omar</a>as a member of the Cultural Psychology Research Group (CPRG).
+I am an undergraduate student of psychology at the University of Kansas. I work primarily with <a href='https://psychology.ku.edu/people/glenn-adams'>Dr. Glenn Adams</a> and <a href='https://psychology.ku.edu/people/syed-muhammad-omar'>Syed Muhammad Omar</a> as a member of the Cultural Psychology Research Group (CPRG).
 
 I am interested in understanding how dominant group identities shape perceptions of...
