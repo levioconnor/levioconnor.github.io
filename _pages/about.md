@@ -21,4 +21,8 @@ latest_posts:
 ---
 I am an undergraduate student of psychology at the University of Kansas. I work primarily with <a href='https://psychology.ku.edu/people/glenn-adams'>Dr. Glenn Adams</a> and <a href='https://psychology.ku.edu/people/syed-muhammad-omar'>Syed Muhammad Omar</a> as a member of the Cultural Psychology Research Group (CPRG).
 
-I am interested in understanding how dominant group identities shape perceptions of...
+Informed by my experience in the CPRG, my research takes an interdisciplinary approach—drawing on cultural, critical, and decolonial psychology alongside sociology, history, and gender studies—to examine how people with dominant and marginalized identities respond to socio-cultural change in the context of Eurocentric modernity and coloniality. For example, White middle-class American males, who typically benefit most from modern/colonial lifeways, persistently experience modernity as threatening. Utilizing a cultural psychological perspective, we can understand how concerns about masculinity and modernity co-constitute phenomena such as anti-science movements, resistance to diversity initiatives, and reactionary political mobilization in the United States through specific epistemic practices that sustain ‘traditional’ ways of being. 
+
+Throughout my time as an undergraduate researcher, I have completed three independent projects. In my first study, I investigated White American opposition to Diversity Equity and Inclusion initiatives. In my second and third studies, I investigated how race and gender identity shape perceptions and conceptions of racism and sexism. 
+
+Outside of research, I enjoy cooking, baking, playing video games, learning guitar, and spending time with friends and family. 
