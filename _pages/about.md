@@ -6,7 +6,7 @@ permalink: /
 <div style="display: flex; gap: 40px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
     <img src="/assets/img/levipic.JPG" style="width: 250px; border-radius: 8px;">
-    <div style="margin-top: 10px; text-align: center;">
+    <div style="margin-top: 10px; text-align: left;">
       <a href="mailto:oconnorlevi712@ku.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/oconnorlevi/">LinkedIn</a>
     </div>
