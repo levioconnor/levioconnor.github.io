@@ -1,12 +1,21 @@
 ---
 layout: about
 title: About
-permalink: /
+selected_papers: false
+social: false
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
   <div style="flex-shrink: 0; max-width: 100%;">
     <img src="/assets/img/levipic.JPG" style="width: 250px; max-width: 100%; border-radius: 8px;">
-    <div style="margin-top: 10px; text-align: center;">
+    <div style="margin-top: 10px; text-align: left;">
       <a href="mailto:oconnorlevi712@ku.edu">Email</a> | 
       <a href="https://www.linkedin.com/in/oconnorlevi/">LinkedIn</a>
     </div>
@@ -19,7 +28,5 @@ permalink: /
     <p>Throughout my time as an undergraduate researcher, I have completed three independent projects. In my first study, I investigated White American opposition to Diversity Equity and Inclusion initiatives. In my second and third studies, I investigated how race and gender identity shape perceptions and conceptions of racism and sexism.</p>
 
     <p>Outside of research, I enjoy cooking, baking, playing video games, learning guitar, and spending time with loved ones.</p>
-
-    <p>Here are some pictures of me doing my hobbies:</p>
   </div>
 </div>
