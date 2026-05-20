@@ -6,8 +6,7 @@ profile:
   image: levipic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='mailto:oconnorlevi712@ku.edu'>Email</a> | <a href='https://www.linkedin.com/in/oconnorlevi/'>LinkedIn</a>
-</p>
+    <p><a href='mailto:oconnorlevi712@ku.edu'>Email</a> | <a href='https://www.linkedin.com/in/oconnorlevi/'>LinkedIn</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
