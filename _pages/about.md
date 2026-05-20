@@ -1,7 +1,6 @@
 ---
 layout: about
 title: About
-permalink:
 profile:
   align: left
   image: levipic.JPG
