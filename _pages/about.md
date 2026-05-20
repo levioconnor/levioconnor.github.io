@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+permalink: / 
 selected_papers: false
 social: false
 announcements:
