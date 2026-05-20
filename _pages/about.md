@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='oconnorlevi712@ku.edu'>Email</a> | <a href='https://www.linkedin.com/in/oconnorlevi/'>LinkedIn</a>
 
 profile:
-  align: right
+  align: left
   image: levipic.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
