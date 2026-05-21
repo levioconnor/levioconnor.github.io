@@ -19,7 +19,7 @@ latest_posts:
     <img src="/assets/img/levipic.JPG" style="width: 250px; max-width: 100%; border-radius: 8px;">
     <div style="margin-top: 15px;">
       <p style="margin: 4px 0;"><strong>Contact</strong></p>
-      <p style="margin: 4px 0;"><a href="mailto:oconnorlevi712@ku.edu">oconnorlevi712@ku.edu</a></p>
+      <p style="margin: 4px 0;"><a href="mailto:oconnorlevi712@ku.edu">Email</a></p>
       <p style="margin: 4px 0;"><a href="https://www.linkedin.com/in/oconnorlevi/">LinkedIn</a></p>
     </div>
   </div>
