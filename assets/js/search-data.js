@@ -403,9 +403,9 @@ ninja.data = [{
           section: "News",},{id: "news-ku-announces-first-beinecke-scholar",
           title: 'KU announces first Beinecke scholar',
           description: "",
-          section: "News",},{id: "projects-spsp-poster-2026",
-          title: 'SPSP Poster 2026',
-          description: "",
+          section: "News",},{id: "projects-spsp-2026-poster",
+          title: 'SPSP 2026 Poster',
+          description: "Society for Personality and Social Psychology, 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
