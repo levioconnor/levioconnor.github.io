@@ -4,7 +4,7 @@ title: project 1
 description: with background image
 img: assets/img/20251118_SPSP_Poster.pdf
 importance: 1
-category: work
+category: Academic
 related_publications: true
 ---
 
