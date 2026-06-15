@@ -3,7 +3,7 @@ layout: page
 title: KCKCC 2026 Poster
 description: Kansas City Kansas Community College Research Conference in the Psychological Sciences, 2026
 img: assets/img/KCKCC2026.png
-importance: 2
+importance: 1
 category: Academic
 ---
 
