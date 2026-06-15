@@ -3,7 +3,7 @@ layout: page
 title: SPSP 2026 Poster
 description: Society for Personality and Social Psychology, 2026
 img: assets/img/SPSP2026.png
-importance: 1
+importance: 2
 category: Academic
 ---
 
