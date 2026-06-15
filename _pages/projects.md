@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of my academic and personal projects.
-nav: false
+nav: true
 nav_order: 9
 display_categories: [Academic, Personal]
 horizontal: false
