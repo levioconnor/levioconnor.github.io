@@ -1,10 +1,10 @@
 ---
 layout: page
-title: My Presentation
-description: A short description of this project
+title: Intentionality of Everyday Worlds
+description: A presentation demonstrating the mutual constitution of psyche and culture in everyday life.
 img: assets/img/presentation_thumbnail.png
 importance: 3
-category: Personal
+category: Academic
 ---
 
 <div class="row justify-content-center">
@@ -17,5 +17,5 @@ category: Personal
     </div>
 </div>
 <div class="caption">
-    A brief caption describing this presentation, e.g. the date or event it was for.
+    Cultural Psychology course presentation
 </div>
