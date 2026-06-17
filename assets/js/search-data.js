@@ -408,9 +408,9 @@ ninja.data = [{
           description: "A research poster created from my first independent research project as a part of the McNair Scholar Program&#39;s 2025 Summer Research Internship. It was presented at SPSP in February, 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-kckcc-2026-poster",
-          title: 'KCKCC 2026 Poster',
-          description: "Kansas City Kansas Community College Research Conference in the Psychological Sciences, 2026",
+            },},{id: "projects-race-and-gender-identity-relevant-perceptions-of-racism-and-sexism",
+          title: 'Race and Gender Identity-Relevant Perceptions of Racism and Sexism',
+          description: "A research poster I created focused on a small part of a study I conducted from Fall 2025 to Spring 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-intentionality-of-everyday-worlds",
