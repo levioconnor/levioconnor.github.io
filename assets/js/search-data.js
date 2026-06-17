@@ -413,9 +413,9 @@ ninja.data = [{
           description: "Kansas City Kansas Community College Research Conference in the Psychological Sciences, 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-intentionality-of-everyday-worlds",
+          title: 'Intentionality of Everyday Worlds',
+          description: "A presentation demonstrating the mutual constitution of psyche and culture in everyday life.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
