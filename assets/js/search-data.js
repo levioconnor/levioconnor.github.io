@@ -415,7 +415,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-intentionality-of-everyday-worlds",
           title: 'Intentionality of Everyday Worlds',
-          description: "A presentation demonstrating the mutual constitution of psyche and culture in everyday life.",
+          description: "A short portfolio demonstrating the mutual constitution of psyche and culture in everyday life through photos taken at the University of Kansas.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
