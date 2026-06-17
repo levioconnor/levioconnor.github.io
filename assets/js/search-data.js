@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-percieved-threats-of-dei-demystifying-white-american-opposition",
           title: 'Percieved Threats of DEI: Demystifying White American Opposition',
-          description: "A research poster created from my first independent research project as a part of the McNair Scholar Program&#39;s 2025 Summer Research Internship. It was presented at SPSP in February, 2026",
+          description: "A research poster created from my first independent research project as a part of the McNair Scholar Program&#39;s 2025 Summer Research Internship.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-race-and-gender-identity-relevant-perceptions-of-racism-and-sexism",
