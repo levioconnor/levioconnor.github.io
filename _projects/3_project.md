@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intentionality of Everyday Worlds
-description: A presentation demonstrating the mutual constitution of psyche and culture in everyday life.
+description: A short portfolio demonstrating the mutual constitution of psyche and culture in everyday life through photos taken at the University of Kansas.
 img: assets/img/presentation_thumbnail.png
 importance: 3
 category: Academic
@@ -17,5 +17,5 @@ category: Academic
     </div>
 </div>
 <div class="caption">
-    Cultural Psychology course presentation
+    Cultural Psychology Final Project
 </div>
