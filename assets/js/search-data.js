@@ -403,9 +403,9 @@ ninja.data = [{
           section: "News",},{id: "news-ku-announces-first-beinecke-scholar",
           title: 'KU announces first Beinecke scholar',
           description: "",
-          section: "News",},{id: "projects-percieved-threats-of-dei-demystifying-white-american-opposition",
-          title: 'Percieved Threats of DEI Demystifying White American Opposition',
-          description: "A research poster created from my first independent research project as a part of the McNair Scholar&#39;s Program 2025 Summer Research Internship. It was presented at SPSP in February, 2026",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-kckcc-2026-poster",
